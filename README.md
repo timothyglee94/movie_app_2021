@@ -16,4 +16,6 @@ About page contains what this app is about
 
 detail page is linked to each movie, shows full summary of the movie. 
 
+Each page is linked through hashRouter. 
+
 @TimothyLee
