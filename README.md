@@ -18,4 +18,6 @@ detail page is linked to each movie, shows full summary of the movie.
 
 Each page is linked through hashRouter. 
 
+accessible @ https://timothyglee94.github.io/movie_app_2021/
+
 @TimothyLee
